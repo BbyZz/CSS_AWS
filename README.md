@@ -2,7 +2,7 @@
 
 This README file will guide in transitioning from inline CSS styles to external stylesheets. This improves code readability, maintainability, and separation of concerns in web development. By following this guide, developers will gain a deeper understanding of CSS fundamentals and best practices, ensuring cleaner and more efficient styling for web pages.
 
-![image]([https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg](https://rehansaeed.com/images/hero/CSS-1600x900.png))
+[![image](https://rehansaeed.com/images/hero/CSS-1600x900.png)
 
 
 
