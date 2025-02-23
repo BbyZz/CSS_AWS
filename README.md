@@ -2,7 +2,7 @@
 
 This README file will guide in transitioning from inline CSS styles to external stylesheets. This improves code readability, maintainability, and separation of concerns in web development. By following this guide, developers will gain a deeper understanding of CSS fundamentals and best practices, ensuring cleaner and more efficient styling for web pages.
 
-[![image](https://rehansaeed.com/images/hero/CSS-1600x900.png)
+![image](https://rehansaeed.com/images/hero/CSS-1600x900.png)
 
 
 
@@ -26,7 +26,8 @@ This README file will guide in transitioning from inline CSS styles to external 
 ## Start by opening this repository
 
 1. Create a folder to store your the repository
-2. Type in the address bar = "CMD"
+2. Type in the address bar 'cmd'
+3. In CMD, type 'git clone https://github.com/BbyZz/CSS_AWS.git' then enter 
 
 ## Part 2: Install the following Extensions(Optional)
 
