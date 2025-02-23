@@ -23,26 +23,23 @@ This README file will guide in transitioning from inline CSS styles to external 
 
 5. Convert an HTML file with inline styles into a clean structure using an external CSS file.
 
-## Start by opening this repository
+## Start by cloning this repository
 
 1. Create a folder to store your the repository
 2. Type in the address bar 'cmd'
-3. In CMD, type 'git clone https://github.com/BbyZz/CSS_AWS.git' then enter 
+3. In CMD, type `git clone https://github.com/BbyZz/CSS_AWS.git` then enter
+4. After cloning, type `code .` to open vscode.
 
-## Part 2: Install the following Extensions(Optional)
+## Install the following Extensions(Optional)
 
-  Tailwin CSS Intellisense
+  Tailwind CSS Intellisense 
 
-    
+## Part 1: Create a css file
+1. Create a new file, title it `styles.css`
+2. Go to `index.html`, inside the head tag, type `<link rel="stylesheet" href="styles.css">`
+3. Check if it worked. 
 
-## Part 2: Coding the head tag
-1. type "!" then enter, a boilerplate should appear that will act as your template.
-2. Inside the head tag edit your title as you want, this would change the name of the tab when using the a browser.
-3. After the title, type "h1" and enter, a new set of tags should appear. Write in a message for everyone to see.
-4. After the heading, type "hr" and enter, this creates a thematic line that serves as your seperation.
-5. Preview the html by saving with "Ctrl + S" and right clicking the "index.html" tab in VScode and then select "Show in Browser"
-
-## Part 3: Coding the body tag 
+## Part 2: From the top, transform all Inline CSS into External CSS.
 1. Type "h3" then enter, in here write another message don't worry you can go back to this later to cusutomize it again.
 2. Under the h3 tag, type "p" and enter, follow it by typing "em" then enter, follow it by typing "strong" then enter, lastly follow it again by typing "u" then enter. Then type in "Browse my memories by clicking the arrow!"
 
