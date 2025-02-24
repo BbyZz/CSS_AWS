@@ -40,9 +40,23 @@ This README file will guide in transitioning from inline CSS styles to external 
 3. Check if it worked. 
 
 ## Part 2: From the top, transform all Inline CSS into External CSS.
+1. Replace the `body`  `font-size` inline css into external css.
+2. Replace the `p` `color: red` inline css into external css.
+3. Replace the `a``text-decoration-line: none` and `color: black` inline css into external css.
+4. Replace the `div` `margin-bottom` inline css into external css
+5. Replace the `p` `padding-left` and `background-color` inlince css into external css.
+6. Replace the `span` `font-weight` inline css intro external css. 
+
+
+
+
+## Part 3: From the top, transform all Inline CSS into External CSS.
 1. Type "h3" then enter, in here write another message don't worry you can go back to this later to cusutomize it again.
 2. Under the h3 tag, type "p" and enter, follow it by typing "em" then enter, follow it by typing "strong" then enter, lastly follow it again by typing "u" then enter. Then type in "Browse my memories by clicking the arrow!"
 
+## Part 4: From the top, transform all Inline CSS into External CSS.
+1. Type "h3" then enter, in here write another message don't worry you can go back to this later to cusutomize it again.
+2. Under the h3 tag, type "p" and enter, follow it by typing "em" then enter, follow it by typing "strong" then enter, lastly follow it again by typing "u" then enter. Then type in "Browse my memories by clicking the arrow!"
 
 and With covers some of the basics of HTML.
 I hope you learned something new and you develop your own webpage with your own wittines and creativity.
