@@ -48,22 +48,14 @@ This README file will guide in transitioning from inline CSS styles to external 
 6. Replace the `span` `font-weight` inline css intro external css. 
 
 
-
-
 ## Part 3: From the top, transform all Inline CSS into External CSS.
-1. Type "h3" then enter, in here write another message don't worry you can go back to this later to cusutomize it again.
-2. Under the h3 tag, type "p" and enter, follow it by typing "em" then enter, follow it by typing "strong" then enter, lastly follow it again by typing "u" then enter. Then type in "Browse my memories by clicking the arrow!"
 
-## Part 4: From the top, transform all Inline CSS into External CSS.
-1. Type "h3" then enter, in here write another message don't worry you can go back to this later to cusutomize it again.
-2. Under the h3 tag, type "p" and enter, follow it by typing "em" then enter, follow it by typing "strong" then enter, lastly follow it again by typing "u" then enter. Then type in "Browse my memories by clicking the arrow!"
+## Part 4: Have fun with your newly formatted HTML file and external CSS file.
 
-and With covers some of the basics of HTML.
-I hope you learned something new and you develop your own webpage with your own wittines and creativity.
+and this covers some of the basics of HTML.
+I hope you learned something new and apply your creativity using CSS stylings.
 
-Look at this cute and clean looking html only pages
-https://jenson.org/
-https://mayborg121.github.io/xs/
+
 
 Thank you!!!
 
