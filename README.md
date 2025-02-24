@@ -26,7 +26,7 @@ This README file will guide in transitioning from inline CSS styles to external 
 ## Start by cloning this repository
 
 1. Create a folder to store your the repository
-2. Type in the address bar 'cmd'
+2. Type in the address bar `cmd`
 3. In CMD, type `git clone https://github.com/BbyZz/CSS_AWS.git` then enter
 4. After cloning, type `code .` to open vscode.
 
@@ -42,7 +42,7 @@ This README file will guide in transitioning from inline CSS styles to external 
 ## Part 2: From the top, transform all Inline CSS into External CSS.
 1. Replace the `body`  `font-size` inline css into external css.
 2. Replace the `p` `color: red` inline css into external css.
-3. Replace the `a``text-decoration-line: none` and `color: black` inline css into external css.
+3. Replace the `a` `text-decoration-line: none` and `color: black` inline css into external css.
 4. Replace the `div` `margin-bottom` inline css into external css
 5. Replace the `p` `padding-left` and `background-color` inlince css into external css.
 6. Replace the `span` `font-weight` inline css intro external css. 
